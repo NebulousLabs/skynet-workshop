@@ -32,7 +32,7 @@ window.createWebPage = function () {
       )
       // For the redirect link we want to trim the 'sia:' prefix so that the
       // link is https://siasky.net/<skylink hash>/
-      const directLink = '/' + skylink.replace('sia:', '') + '/'
+      const directLink = '/' + skylink.skylink.replace('sia:', '') + '/'
       document.getElementById('skylink').href = directLink
       document.getElementById('skylink').text = skylink
     })()
