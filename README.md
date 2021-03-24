@@ -1,5 +1,7 @@
 # Welcome to the Skynet Workshop!
 
+> :warning: This repo has been archived and moved under the new [SkynetHQ](https://github.com/SkynetHQ) repo [here](https://github.com/SkynetHQ/skynet-workshop)
+
 Welcome!
 
 In this repo you will find a basic Skynet app online to help you start
